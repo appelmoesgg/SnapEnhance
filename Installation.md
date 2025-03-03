@@ -21,7 +21,7 @@
  > [!CAUTION]
  > You will need to install Snapchat version 12.81.0.44 or lower to avoid account bans!
  > You can get Snapchat version 12.81.0.44 [here](https://www.apkmirror.com/apk/snap-inc/snapchat/snapchat-12-81-0-44-release/snapchat-12-81-0-44-2-android-apk-download/) 
- - [LSPatch](https://github.com/JingMatrix/LSPatch) installed and fully functional.
+ - [LSPatch](https://github.com/JingMatrix/LSPatch)(latest version) installed and fully functional.
  - Snapchat (v12.81.0.44 or lower) installed and fully functional.
  - A functioning arm64-v8a or armeabi-v7a device.
 
